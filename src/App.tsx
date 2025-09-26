@@ -1065,8 +1065,8 @@ export default function App() {
                 title: "Contact",
                 items: [
                   "info@travelsolutionplus.com",
-                  "+33 1 23 45 67 89",
-                  "Paris, France",
+                  "+6 77 77 77 77",
+                  "Ngousso, Yaoundé",
                 ],
                 delay: 0.4,
               },
